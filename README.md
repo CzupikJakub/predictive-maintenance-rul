@@ -2,7 +2,7 @@
 
 **Goal**: Build a clean, reproducible baseline for **Remaining Useful Life (RUL)** prediction on rotating equipment using **NASA C-MAPSS**. The notebook is **Colab-ready**, performs **time-series feature engineering**, trains a **baseline ML model**, and saves **artifacts**.
 
-## Why it matters (ABB Motion context)
+## Why it matters 
 Predictive maintenance enables **condition monitoring** of motors and drives, reducing downtime and improving efficiency. This repo demonstrates an **end-to-end pipeline** applicable to **rotating equipment & drives**.
 
 ## Quickstart (Colab)
